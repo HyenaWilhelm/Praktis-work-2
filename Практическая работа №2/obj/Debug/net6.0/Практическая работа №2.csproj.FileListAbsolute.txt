@@ -1,0 +1,15 @@
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\bin\Debug\net6.0\Практическая работа №2.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\bin\Debug\net6.0\Практическая работа №2.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\bin\Debug\net6.0\Практическая работа №2.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\bin\Debug\net6.0\Практическая работа №2.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\bin\Debug\net6.0\Практическая работа №2.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\refint\Практическая работа №2.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\Практическая работа №2.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практическая работа №2\Практическая работа №2\obj\Debug\net6.0\ref\Практическая работа №2.dll
