@@ -7,9 +7,10 @@
             int per = 9;
             do
             {
+                Console.WriteLine("При выборе программы вводите данные несколько раз");
                 Console.WriteLine("\"Угадай число\" - 1\n" +
                 "Таблица умножения - 2\n" +
-                "? - 3\n" +
+                "Вывод делителей числа - 3\n" +
                 "Выйти из программы - 0");
                 Console.ReadLine();
                 per = Convert.ToInt32(Console.ReadLine());
@@ -22,6 +23,10 @@
                     Umnojenie();
                 }
                 //Umnojenie();
+                if (per == 3)
+                {
+                    Delenie();
+                }
             } while (per != 0);
         }
         static void UgadaiNumber()
@@ -56,6 +61,7 @@
         {
             int[] matrica = { 1, 2, 3, 4, 5, 6, 7, 8, 9, };
             int oper;
+            Console.WriteLine("-----------");
             for (int i = 0; i < matrica.Length; i++)
             {
                 Console.WriteLine($"{matrica[i]}\t");
@@ -75,7 +81,17 @@
         }
         static void Delenie()
         {
-
+            int num = 0;
+            Console.WriteLine("----------");
+            num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Чтобы выйти напишите \"выход\"");
+            for (int i = 1; i <= num; i++)
+            {
+                if (num % i == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }
